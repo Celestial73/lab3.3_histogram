@@ -1,0 +1,13 @@
+C:\Mingw64\mingw64\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" C:\Users\Michael\ROOT\MEPHI\sem3\labs\Lab3
+CMake Deprecation Warning:
+  Support for "Extra Generators" like
+
+    CodeBlocks
+
+  is deprecated and will be removed from a future version of CMake.  IDEs may
+  use the cmake-file-api(7) to view CMake-generated project build trees.
+
+
+-- Configuring done (2.5s)
+-- Generating done (0.6s)
+-- Build files have been written to: C:/Users/Michael/ROOT/MEPHI/sem3/labs/Lab3/cmake-build-debug

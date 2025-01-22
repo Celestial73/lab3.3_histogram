@@ -1,0 +1,5 @@
+C:/Users/Michael/ROOT/MEPHI/sem3/labs/Lab3/cmake-build-debug/CMakeFiles/lab3.dir
+C:/Users/Michael/ROOT/MEPHI/sem3/labs/Lab3/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Michael/ROOT/MEPHI/sem3/labs/Lab3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Michael/ROOT/MEPHI/sem3/labs/Lab3/cmake-build-debug/CMakeFiles/lab3_autogen_timestamp_deps.dir
+C:/Users/Michael/ROOT/MEPHI/sem3/labs/Lab3/cmake-build-debug/CMakeFiles/lab3_autogen.dir
